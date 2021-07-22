@@ -20,3 +20,5 @@ pip install nsepy
 ---
 
 __To specify a particular company for fetching it's stock prices you need to specify the symbol of the company as listed on the NSE.__
+
+Reference for LSTM architecture theory: https://www.analyticsvidhya.com/blog/2017/12/fundamentals-of-deep-learning-introduction-to-lstm/
